@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b202ad5-d9b2-4ba7-a61f-aa0167b52b82" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/BookAnastasia.html" afterPath="$PROJECT_DIR$/blog/templates/blog/BookAnastasia.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -327,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540838868325</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Down Master i Margarita">
+      <created>1540839650731</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540839650731</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -381,7 +387,8 @@
     <MESSAGE value="try" />
     <MESSAGE value="Read Master i Margarita" />
     <MESSAGE value="Read Master i Margarita1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Read Master i Margarita1" />
+    <MESSAGE value="Down Master i Margarita" />
+    <option name="LAST_COMMIT_MESSAGE" value="Down Master i Margarita" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
