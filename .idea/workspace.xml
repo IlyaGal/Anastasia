@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b202ad5-d9b2-4ba7-a61f-aa0167b52b82" name="Default" comment="blank=True, null=True2">
+    <list default="true" id="6b202ad5-d9b2-4ba7-a61f-aa0167b52b82" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/forms.py" afterPath="$PROJECT_DIR$/blog/forms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/views.py" afterPath="$PROJECT_DIR$/blog/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/models.py" afterPath="$PROJECT_DIR$/blog/models.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/forms.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -74,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="344">
+              <caret line="69" column="47" lean-forward="false" selection-start-line="69" selection-start-column="47" selection-end-line="69" selection-end-column="47" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -174,9 +174,9 @@
         <option value="$PROJECT_DIR$/blog/templates/blog/aspirant_detail.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/BookAnastasia.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/TestAnastasia.html" />
-        <option value="$PROJECT_DIR$/blog/models.py" />
         <option value="$PROJECT_DIR$/blog/views.py" />
         <option value="$PROJECT_DIR$/blog/forms.py" />
+        <option value="$PROJECT_DIR$/blog/models.py" />
       </list>
     </option>
   </component>
@@ -384,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540848713209</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="        exclude = ['title', ...]">
+      <created>1540849017861</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540849017861</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -445,7 +452,8 @@
     <MESSAGE value="re required=False" />
     <MESSAGE value="blank=True, null=True" />
     <MESSAGE value="blank=True, null=True2" />
-    <option name="LAST_COMMIT_MESSAGE" value="blank=True, null=True2" />
+    <MESSAGE value="        exclude = ['title', ...]" />
+    <option name="LAST_COMMIT_MESSAGE" value="        exclude = ['title', ...]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -803,16 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -829,9 +827,19 @@
     <entry file="file://$PROJECT_DIR$/blog/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="69" column="47" lean-forward="false" selection-start-line="69" selection-start-column="47" selection-end-line="69" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
