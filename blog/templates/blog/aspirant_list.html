@@ -1,0 +1,14 @@
+{% extends 'blog/base_first.html' %}
+{% block content %}
+        {% if user.is_authenticated %}
+            <a href="{% url 'aspirant_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
+        {% endif %}
+    {% for aspirant in aspirants %}
+        <div class="aspirant">
+            <h1><a href="{% url 'aspirant_detail' pk=aspirant.pk %}">{{ aspirant.title }}</a></h1>
+            <p>{{ aspirant.kurator|linebreaksbr }}</p>
+            <p>{{ aspirant.diser_name|linebreaksbr }}</p>
+            <p>{{ aspirant.text|linebreaksbr }}</p>
+        </div>
+    {% endfor %}
+{% endblock %}

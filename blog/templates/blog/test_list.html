@@ -1,0 +1,14 @@
+{% extends 'blog/base_first.html' %}
+{% block content %}
+        {% if user.is_authenticated %}
+            <a href="{% url 'test_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
+        {% endif %}
+    {% for test in tests %}
+        <div class="test">
+            <h1><a href="{% url 'test_detail' pk=test.pk %}">{{ test.title }}</a></h1>
+            <p>{{ aspirant.kurator|linebreaksbr }}</p>
+            <p>{{ aspirant.diser_name|linebreaksbr }}</p>
+            <p>{{ aspirant.text|linebreaksbr }}</p>
+        </div>
+    {% endfor %}
+{% endblock %}

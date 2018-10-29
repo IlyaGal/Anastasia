@@ -1,0 +1,14 @@
+{% extends 'blog/base_first.html' %}
+{% block content %}
+        {% if user.is_authenticated %}
+            <a href="{% url 'intresting_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
+        {% endif %}
+    {% for intresting in intrestings %}
+        <div class="intresting">
+            <h1><a href="{% url 'intresting_detail' pk=intresting.pk %}">{{ intresting.title }}</a></h1>
+            <p>{{ intresting.kurator|linebreaksbr }}</p>
+            <p>{{ intresting.diser_name|linebreaksbr }}</p>
+            <p>{{ intresting.text|linebreaksbr }}</p>
+        </div>
+    {% endfor %}
+{% endblock %}
