@@ -67,7 +67,7 @@ class Aspirant(models.Model):
     kurator = models.TextField(default=1)
     diser_name = models.TextField(default=1)
     text = models.TextField()
-    hierarchy = models.IntegerField(unique=True)
+    hierarchy = models.IntegerField()
     tests = models.ManyToManyField(
         to=Test,
         related_name='aspirants')
