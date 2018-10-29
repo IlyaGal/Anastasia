@@ -4,7 +4,7 @@ from django.utils import timezone
 
 class Post(models.Model):
     author = models.ForeignKey('auth.User', on_delete=models.CASCADE)
-    title = models.CharField(max_length=200)
+    title = models.CharField(max_length=200, blank=True, null=True)
     text = models.TextField()
     hierarchy = models.IntegerField(default=1)
     created_date = models.DateTimeField(
