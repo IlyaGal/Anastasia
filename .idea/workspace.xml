@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b202ad5-d9b2-4ba7-a61f-aa0167b52b82" name="Default" comment="">
+    <list default="true" id="6b202ad5-d9b2-4ba7-a61f-aa0167b52b82" name="Default" comment="blank=True, null=True2">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/forms.py" afterPath="$PROJECT_DIR$/blog/forms.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/views.py" afterPath="$PROJECT_DIR$/blog/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +15,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="136" column="45" lean-forward="false" selection-start-line="136" selection-start-column="45" selection-end-line="136" selection-end-column="45" />
+            <state relative-caret-position="720">
+              <caret line="85" column="38" lean-forward="true" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
                 <element signature="e#1839#1922#0" expanded="false" />
                 <element signature="e#2585#2903#0" expanded="false" />
-                <element signature="e#4300#4688#0" expanded="false" />
+                <element signature="e#4254#4642#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -61,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="162">
+              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -168,7 +169,6 @@
         <option value="$PROJECT_DIR$/blog/templates/blog/intresting_edit.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/intresting_list.html" />
         <option value="$PROJECT_DIR$/blog/admin.py" />
-        <option value="$PROJECT_DIR$/blog/forms.py" />
         <option value="$PROJECT_DIR$/mysite/settings.py" />
         <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/aspirant_detail.html" />
@@ -176,6 +176,7 @@
         <option value="$PROJECT_DIR$/blog/templates/blog/TestAnastasia.html" />
         <option value="$PROJECT_DIR$/blog/models.py" />
         <option value="$PROJECT_DIR$/blog/views.py" />
+        <option value="$PROJECT_DIR$/blog/forms.py" />
       </list>
     </option>
   </component>
@@ -376,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540848453267</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="blank=True, null=True2">
+      <created>1540848713209</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1540848713209</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -436,7 +444,8 @@
     <MESSAGE value="required=False2" />
     <MESSAGE value="re required=False" />
     <MESSAGE value="blank=True, null=True" />
-    <option name="LAST_COMMIT_MESSAGE" value="blank=True, null=True" />
+    <MESSAGE value="blank=True, null=True2" />
+    <option name="LAST_COMMIT_MESSAGE" value="blank=True, null=True2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -463,7 +472,7 @@
             <element signature="e#0#64#0" expanded="true" />
             <element signature="e#1839#1922#0" expanded="false" />
             <element signature="e#2585#2903#0" expanded="false" />
-            <element signature="e#4300#4688#0" expanded="false" />
+            <element signature="e#4254#4642#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -569,7 +578,7 @@
             <element signature="e#0#64#0" expanded="true" />
             <element signature="e#1839#1922#0" expanded="false" />
             <element signature="e#2585#2903#0" expanded="false" />
-            <element signature="e#4300#4688#0" expanded="false" />
+            <element signature="e#4254#4642#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -804,25 +813,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="136" column="45" lean-forward="false" selection-start-line="136" selection-start-column="45" selection-end-line="136" selection-end-column="45" />
+        <state relative-caret-position="720">
+          <caret line="85" column="38" lean-forward="true" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
           <folding>
             <element signature="e#0#64#0" expanded="true" />
             <element signature="e#1839#1922#0" expanded="false" />
             <element signature="e#2585#2903#0" expanded="false" />
-            <element signature="e#4300#4688#0" expanded="false" />
+            <element signature="e#4254#4642#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
           </folding>
         </state>
       </provider>

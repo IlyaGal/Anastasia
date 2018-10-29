@@ -7,6 +7,7 @@ class PostForm(forms.ModelForm):
     class Meta:
         model = Post
         fields = ('title', 'text', 'hierarchy')
+        exclude = ['title', ...]
 
 class AspirantForm(forms.ModelForm):
 
