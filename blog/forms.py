@@ -6,7 +6,7 @@ class PostForm(forms.ModelForm):
 
     class Meta:
         model = Post
-        fields = ('title', 'text', 'hierarchy')
+        fields = ('title', 'text', 'hierarchy', 'link')
 
 class AspirantForm(forms.ModelForm):
 
