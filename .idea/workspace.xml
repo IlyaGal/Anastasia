@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b202ad5-d9b2-4ba7-a61f-aa0167b52b82" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/BookAnastasia.html" afterPath="$PROJECT_DIR$/blog/templates/blog/BookAnastasia.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/TestAnastasia.html" afterPath="$PROJECT_DIR$/blog/templates/blog/TestAnastasia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/base_first.html" afterPath="$PROJECT_DIR$/blog/templates/blog/base_first.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,8 +76,8 @@
       <file leaf-file-name="TestAnastasia.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/TestAnastasia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="75" lean-forward="false" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+            <state relative-caret-position="578">
+              <caret line="52" column="10" lean-forward="false" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -372,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540899797989</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="menu">
+      <created>1540900947383</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1540900947383</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -437,7 +442,8 @@
     <MESSAGE value="unique=True" />
     <MESSAGE value="unique=True re" />
     <MESSAGE value="unique=True + blank=True, null=True" />
-    <option name="LAST_COMMIT_MESSAGE" value="unique=True + blank=True, null=True" />
+    <MESSAGE value="menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="menu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -815,8 +821,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/TestAnastasia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="75" lean-forward="false" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+        <state relative-caret-position="578">
+          <caret line="52" column="10" lean-forward="false" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
           <folding />
         </state>
       </provider>
