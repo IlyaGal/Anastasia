@@ -11,7 +11,7 @@
                 </div>
             {% endif %}
             <h1><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h1>
-            <p>{{ post.text|slice:":500"}} <a href="{% url 'post_detail' pk=post.pk %}">...</a></p>
+            <p align="justify">{{ post.text|slice:":500"}} <a href="{% url 'post_detail' pk=post.pk %}">...</a></p>
         </div>
     {% endfor %}
 {% endblock %}
