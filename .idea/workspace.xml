@@ -35,17 +35,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestAnastasia.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestAnastasia.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/TestAnastasia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+            <state relative-caret-position="240">
+              <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blog.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
@@ -105,8 +105,8 @@
         <option value="$PROJECT_DIR$/blog/templates/blog/ProLaboratory.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/base_first.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/BookAnastasia.html" />
-        <option value="$PROJECT_DIR$/blog/static/css/blog.css" />
         <option value="$PROJECT_DIR$/blog/templates/blog/TestAnastasia.html" />
+        <option value="$PROJECT_DIR$/blog/static/css/blog.css" />
       </list>
     </option>
   </component>
@@ -384,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540904400282</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="    font-size: 24pt;">
+      <created>1540905273611</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1540905273611</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -454,7 +461,8 @@
     <MESSAGE value="table width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot;" />
     <MESSAGE value="table width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; border" />
     <MESSAGE value="    font-size: 36pt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="    font-size: 36pt;" />
+    <MESSAGE value="    font-size: 24pt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="    font-size: 24pt;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -823,18 +831,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/TestAnastasia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="240">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/TestAnastasia.html">
+    <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        <state relative-caret-position="72">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding />
         </state>
       </provider>
