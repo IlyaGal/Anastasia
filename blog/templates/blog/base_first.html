@@ -1,40 +1,44 @@
 {% load static %}
 <html>
-    <head>
-        <title>Лабораторія КП</title>
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
-        <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="{% static 'css/blog.css' %}">
-    </head>
+<head>
+    <title>Лабораторія КП</title>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{% static 'css/blog.css' %}">
+</head>
 <body>
-    <div class="page-header">
+<div class="page-header">
 
-        <h1><a href="/">Лабораторія когнітивної психології <br> Інституту психології імені Г.С. Костюка <br> НАПН України </a></h1>
-    </div>
-    <div>
-        <a href="/aspirant">Aspirants</a>
-        <a href="http://psychology-naes-ua.institute/info/117/">Pro Laboratory</a>
-        <a href="http://psychology-naes-ua.institute/info/116/">Staff Laboratory</a>
-        <a href="http://psychology-naes-ua.institute/info/115/">Way doing</a>
-        <a href="http://psychology-naes-ua.institute/info/114/">Work with another</a>
-        <a href="http://psychology-naes-ua.institute/info/113/">Zvitu</a>
-        <a href="http://psychology-naes-ua.institute/info/112/">Publish</a>
-        <a href="http://psychology-naes-ua.institute/info/111/">Contact</a>
+    <h1><a href="/">Лабораторія когнітивної психології <br> Інституту психології імені Г.С. Костюка <br> НАПН України </a></h1>
+</div>
+<div>
+    <table width="95%" cellspacing="0" cellpadding="4" align="center">
+        <tr>
+            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/117/">ЗАГАЛЬНА ІНФОРМАЦІЯ <br>ПРО ЛАБОРАТОРІЮ</a></th>
+            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/116/">СКЛАД ЛАБОРАТОРІЇ</a></th>
+            <th><a class="page-menu" href="/aspirant">АСПІРАНТИ</a></th>
+            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/115/">ОСНОВНІ НАПРЯМКИ <br>ДІЯЛЬНОСТІ</a></th>
+        </tr>
+        <tr>
+            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/114/">СПІВПРАЦЯ З ВІТЧИЗНЯНИМИ <br>ТА ЗАРУБІЖНИМИ ОРГАНІЗАЦІЯМИ</a></th>
+            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/113/">НАУКОВІ ЗВІТИ <br>ПО ЗАВЕРШЕНИХ ТЕМАХ</a></th>
+            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/112/">ОСНОВНІ ПУБЛІКАЦІЇ</a></th>
+            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/111/">КОНТАКТИ</a></th>
+        </tr>
+    </table>
+</div>
 
-
-    </div>
-
-    <div class="content container">
-        <div class="row">
-            <div class="col-md-8">
+<div class="content container">
+    <div class="row">
+        <div class="col-md-8">
             {% block content %}
             {% endblock %}
-            </div>
         </div>
     </div>
-    <div>
-        <p><a href="http://htmlbook.ru/html/a">Tags for a HTML?</a></p>
-    </div>
+</div>
+<div>
+    <p><a href="http://htmlbook.ru/html/a">Tags for a HTML?</a></p>
+</div>
 </body>
 </html>
