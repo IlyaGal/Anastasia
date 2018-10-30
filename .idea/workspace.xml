@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b202ad5-d9b2-4ba7-a61f-aa0167b52b82" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/static/css/blog.css" afterPath="$PROJECT_DIR$/blog/static/css/blog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/BookAnastasia.html" afterPath="$PROJECT_DIR$/blog/templates/blog/BookAnastasia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/TestAnastasia.html" afterPath="$PROJECT_DIR$/blog/templates/blog/TestAnastasia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/base_first.html" afterPath="$PROJECT_DIR$/blog/templates/blog/base_first.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/views.py" afterPath="$PROJECT_DIR$/blog/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +14,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="base_first.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="87" lean-forward="true" selection-start-line="20" selection-start-column="87" selection-end-line="20" selection-end-column="87" />
+              <folding>
+                <element signature="e#0#64#0" expanded="true" />
+                <element signature="e#1862#1945#0" expanded="false" />
+                <element signature="e#2608#2926#0" expanded="false" />
+                <element signature="e#4277#4665#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_first.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/base_first.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -101,7 +113,6 @@
         <option value="$PROJECT_DIR$/mysite/settings.py" />
         <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/aspirant_detail.html" />
-        <option value="$PROJECT_DIR$/blog/views.py" />
         <option value="$PROJECT_DIR$/blog/forms.py" />
         <option value="$PROJECT_DIR$/blog/models.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/ProLaboratory.html" />
@@ -109,6 +120,7 @@
         <option value="$PROJECT_DIR$/blog/templates/blog/TestAnastasia.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/BookAnastasia.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/base_first.html" />
+        <option value="$PROJECT_DIR$/blog/views.py" />
       </list>
     </option>
   </component>
@@ -428,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540917368946</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="menu all">
+      <created>1540918148793</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1540918148793</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -479,7 +498,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="try" />
     <MESSAGE value="Read Master i Margarita" />
     <MESSAGE value="Read Master i Margarita1" />
     <MESSAGE value="Down Master i Margarita" />
@@ -504,7 +522,8 @@
     <MESSAGE value="2table" />
     <MESSAGE value="center" />
     <MESSAGE value="center11" />
-    <option name="LAST_COMMIT_MESSAGE" value="center11" />
+    <MESSAGE value="menu all" />
+    <option name="LAST_COMMIT_MESSAGE" value="menu all" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -588,9 +607,9 @@
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="e#0#64#0" expanded="true" />
-            <element signature="e#1839#1922#0" expanded="false" />
-            <element signature="e#2585#2903#0" expanded="false" />
-            <element signature="e#4254#4642#0" expanded="false" />
+            <element signature="e#1862#1945#0" expanded="false" />
+            <element signature="e#2608#2926#0" expanded="false" />
+            <element signature="e#4277#4665#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -784,19 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="85" column="38" lean-forward="true" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-            <element signature="e#1839#1922#0" expanded="false" />
-            <element signature="e#2585#2903#0" expanded="false" />
-            <element signature="e#4254#4642#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -886,6 +892,19 @@
         <state relative-caret-position="360">
           <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="87" lean-forward="true" selection-start-line="20" selection-start-column="87" selection-end-line="20" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#1862#1945#0" expanded="false" />
+            <element signature="e#2608#2926#0" expanded="false" />
+            <element signature="e#4277#4665#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

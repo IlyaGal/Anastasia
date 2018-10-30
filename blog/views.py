@@ -18,7 +18,7 @@ def aspirant_list(request):
     return render(request, 'blog/aspirant_list.html', {'aspirants': aspirants})
 def post_list(request):
     posts = Post.objects.filter(published_date__lte=timezone.now()).order_by('published_date').reverse
-    return render(request, 'blog/post_list.html', {'posts': posts})
+    return render(request, 'blog/post_list.html', {'posts': posts}, {{posts|slice:":65"}})
 
 
 def intresting_detail(request, pk):
