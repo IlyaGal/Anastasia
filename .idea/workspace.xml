@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b202ad5-d9b2-4ba7-a61f-aa0167b52b82" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/views.py" afterPath="$PROJECT_DIR$/blog/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="87" lean-forward="true" selection-start-line="20" selection-start-column="87" selection-end-line="20" selection-end-column="87" />
+            <state relative-caret-position="450">
+              <caret line="25" column="81" lean-forward="false" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
                 <element signature="e#1862#1945#0" expanded="false" />
@@ -447,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540918148793</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="{{ my_variable|slice:&quot;:255&quot; }}">
+      <created>1540919394201</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1540919394201</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -498,7 +504,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Read Master i Margarita" />
     <MESSAGE value="Read Master i Margarita1" />
     <MESSAGE value="Down Master i Margarita" />
     <MESSAGE value="googleform" />
@@ -523,7 +528,8 @@
     <MESSAGE value="center" />
     <MESSAGE value="center11" />
     <MESSAGE value="menu all" />
-    <option name="LAST_COMMIT_MESSAGE" value="menu all" />
+    <MESSAGE value="{{ my_variable|slice:&quot;:255&quot; }}" />
+    <option name="LAST_COMMIT_MESSAGE" value="{{ my_variable|slice:&quot;:255&quot; }}" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -897,8 +903,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="87" lean-forward="true" selection-start-line="20" selection-start-column="87" selection-end-line="20" selection-end-column="87" />
+        <state relative-caret-position="450">
+          <caret line="25" column="81" lean-forward="false" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
           <folding>
             <element signature="e#0#64#0" expanded="true" />
             <element signature="e#1862#1945#0" expanded="false" />
