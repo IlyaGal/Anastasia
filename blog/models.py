@@ -3,7 +3,7 @@ from django.utils import timezone
 
 
 class Post(models.Model):
-    author = models.ForeignKey('auth.User', on_delete=models.CASCADE, blank=True, null=True)
+    author = models.ForeignKey('auth.User', on_delete=models.CASCADE)
     title = models.CharField(max_length=200, blank=True, null=True)
     text = models.TextField(blank=True, null=True)
     hierarchy = models.IntegerField(unique=True)
@@ -20,7 +20,7 @@ class Post(models.Model):
         return self.title
 
 class Test(models.Model):
-    author = models.ForeignKey('auth.User', on_delete=models.CASCADE, blank=True, null=True)
+    author = models.ForeignKey('auth.User', on_delete=models.CASCADE)
 
     title = models.CharField(max_length=200, blank=True, null=True)
     kurator = models.TextField(blank=True, null=True)
@@ -41,7 +41,7 @@ class Test(models.Model):
         return self.title
 
 class Intresting(models.Model):
-    author = models.ForeignKey('auth.User', on_delete=models.CASCADE, blank=True, null=True)
+    author = models.ForeignKey('auth.User', on_delete=models.CASCADE)
 
     title = models.CharField(max_length=200, blank=True, null=True)
     kurator = models.TextField(blank=True, null=True)
@@ -62,7 +62,7 @@ class Intresting(models.Model):
         return self.title
 
 class Aspirant(models.Model):
-    author = models.ForeignKey('auth.User', on_delete=models.CASCADE, blank=True, null=True)
+    author = models.ForeignKey('auth.User', on_delete=models.CASCADE)
     title = models.CharField(max_length=200, blank=True, null=True)
     kurator = models.TextField(blank=True, null=True)
     diser_name = models.TextField(blank=True, null=True)
