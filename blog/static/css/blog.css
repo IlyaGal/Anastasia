@@ -1,3 +1,11 @@
+.page-menu {
+    text-align: center;
+    font-family: 'Lobster';
+    color: #40E0D0;
+    font-size: 36pt;
+
+}
+
 .page-header {
     background-color: #40E0D0;
     margin-top: 0;
