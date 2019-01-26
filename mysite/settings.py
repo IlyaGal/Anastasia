@@ -25,7 +25,7 @@ SECRET_KEY = '_vroc506&k#-%-r*1a^9z)llzb8qo&(1o)#rw3&s2q^w)7@3gt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'AnastasiaKolorova.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'www.cognitivepsychologylab.info']
 
 
 # Application definition
