@@ -24,4 +24,6 @@ urlpatterns = [
 
     url(r'^testAnastasia/$', views.test_anastasia),
     url(r'^bookAnastasia/$', views.book_anastasia),
+    url(r'^Aspirants/$', views.stat_aspirants),
+    url(r'^AnastasiaKolorova/$', views.stat_anastasia),
 ]

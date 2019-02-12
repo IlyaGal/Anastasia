@@ -3,6 +3,10 @@ from django.utils import timezone
 from .models import Post, Aspirant, Test, Intresting
 from .forms import PostForm, AspirantForm, TestForm, IntrestingForm
 
+def stat_aspirants(request):
+    return render(request, 'blog/Aspirants.html')
+def stat_anastasia(request):
+    return render(request, 'blog/AnastasiaKolorova.html')
 def book_anastasia(request):
     return render(request, 'blog/BookAnastasia.html')
 def test_anastasia(request):
