@@ -609,7 +609,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549990188123</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="jpeg code4">
+      <created>1549990410796</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1549990410796</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -660,7 +667,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="table" />
     <MESSAGE value="table width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot;" />
     <MESSAGE value="table width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; border" />
     <MESSAGE value="    font-size: 36pt;" />
@@ -685,7 +691,8 @@
     <MESSAGE value="jpeg code1" />
     <MESSAGE value="jpeg code2" />
     <MESSAGE value="jpeg code3" />
-    <option name="LAST_COMMIT_MESSAGE" value="jpeg code3" />
+    <MESSAGE value="jpeg code4" />
+    <option name="LAST_COMMIT_MESSAGE" value="jpeg code4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
