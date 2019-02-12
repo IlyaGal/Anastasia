@@ -112,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/Aspirants.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+              <caret line="20" column="63" lean-forward="false" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -300,13 +300,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540139158872</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Read Master i Margarita1">
-      <created>1540838859171</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1540838859171</updated>
     </task>
     <task id="LOCAL-00004" summary="Read Master i Margarita1">
       <created>1540838868325</created>
@@ -644,7 +637,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549992840578</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="jpeg code10">
+      <created>1549992996761</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1549992996762</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -695,7 +695,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="    font-size: 28pt;" />
     <MESSAGE value="2table" />
     <MESSAGE value="center" />
     <MESSAGE value="center11" />
@@ -720,7 +719,8 @@
     <MESSAGE value="jpeg code7" />
     <MESSAGE value="jpeg code8" />
     <MESSAGE value="jpeg code9" />
-    <option name="LAST_COMMIT_MESSAGE" value="jpeg code9" />
+    <MESSAGE value="jpeg code10" />
+    <option name="LAST_COMMIT_MESSAGE" value="jpeg code10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1054,7 +1054,7 @@
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/Aspirants.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <caret line="20" column="63" lean-forward="false" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
           <folding />
         </state>
       </provider>
