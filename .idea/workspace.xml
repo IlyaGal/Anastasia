@@ -111,12 +111,9 @@
       <file leaf-file-name="Aspirants.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/Aspirants.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="66" lean-forward="false" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#p#0;n#th#0;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="20" column="123" lean-forward="false" selection-start-line="20" selection-start-column="123" selection-end-line="20" selection-end-column="123" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -303,13 +300,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540139158872</updated>
-    </task>
-    <task id="LOCAL-00009" summary="required=False2">
-      <created>1540847783349</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1540847783349</updated>
     </task>
     <task id="LOCAL-00010" summary="re required=False">
       <created>1540847937611</created>
@@ -647,7 +637,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550011447668</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="table3">
+      <created>1550011700811</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1550011700811</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -698,7 +695,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="{{ my_variable|slice:&quot;:255&quot; }}" />
     <MESSAGE value="slice:&quot;:255&quot;" />
     <MESSAGE value="slice:&quot;:255&quot;2" />
     <MESSAGE value="..." />
@@ -723,7 +719,8 @@
     <MESSAGE value="|jpeg" />
     <MESSAGE value="|jpeg Анастасия Кольорова" />
     <MESSAGE value="table" />
-    <option name="LAST_COMMIT_MESSAGE" value="table" />
+    <MESSAGE value="table3" />
+    <option name="LAST_COMMIT_MESSAGE" value="table3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1056,12 +1053,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/Aspirants.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="66" lean-forward="false" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#p#0;n#th#0;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="20" column="123" lean-forward="false" selection-start-line="20" selection-start-column="123" selection-end-line="20" selection-end-column="123" />
+          <folding />
         </state>
       </provider>
     </entry>
