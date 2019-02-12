@@ -15,7 +15,8 @@
 
 .aspirants {
     color: #000000;
-    font-family: 'Times New Roman', cursive;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
     font-size: 28pt;
 
 }
