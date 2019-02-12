@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b202ad5-d9b2-4ba7-a61f-aa0167b52b82" name="Default" comment="jpeg code4">
+    <list default="true" id="6b202ad5-d9b2-4ba7-a61f-aa0167b52b82" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,8 +101,8 @@
       <file leaf-file-name="Aspirants.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/Aspirants.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state relative-caret-position="432">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -623,7 +623,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549990416856</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="jpeg code5">
+      <created>1549990505345</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1549990505345</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -674,7 +681,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="table width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot;" />
     <MESSAGE value="table width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; border" />
     <MESSAGE value="    font-size: 36pt;" />
     <MESSAGE value="    font-size: 24pt;" />
@@ -699,7 +705,8 @@
     <MESSAGE value="jpeg code2" />
     <MESSAGE value="jpeg code3" />
     <MESSAGE value="jpeg code4" />
-    <option name="LAST_COMMIT_MESSAGE" value="jpeg code4" />
+    <MESSAGE value="jpeg code5" />
+    <option name="LAST_COMMIT_MESSAGE" value="jpeg code5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1031,8 +1038,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/Aspirants.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        <state relative-caret-position="432">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
           <folding />
         </state>
       </provider>
