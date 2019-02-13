@@ -20,7 +20,6 @@
     padding: 10px; /* Поля вокруг текста */
     text-align: right;
     width: 95%; /* Ширина слоя */
-    position: fixed; /* Фиксированное положение */
 }
 
 .aspirants {
