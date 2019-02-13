@@ -26,4 +26,9 @@ urlpatterns = [
     url(r'^bookAnastasia/$', views.book_anastasia),
     url(r'^Aspirants/$', views.stat_aspirants),
     url(r'^AnastasiaKolorova/$', views.stat_anastasia),
+    url(r'^page1/$', views.stat_page1),
+    url(r'^page2/$', views.stat_page2),
+    url(r'^page3/$', views.stat_page3),
+    url(r'^page4/$', views.stat_page4),
+    url(r'^page5/$', views.stat_page5),
 ]
