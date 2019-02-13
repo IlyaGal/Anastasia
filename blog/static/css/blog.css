@@ -90,25 +90,28 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 
-
-
-/* Минимально необходимый CSS */
-html,
-body {
-    height: 100%;
+body, html {
+  width: 100%;
+  height: 100%;
 }
-.wrap {
-    min-height: 100%;
-    position: relative;
-    [rel="main"] {
-        padding-bottom: 100px;
-    }
-    footer {
-        position: absolute;
-        width: 100%;
-        height: 100px;
-        left: 0;
-        bottom: 0;
-    }
+
+.wrapper {
+  width: 100%;
+  min-height: 100%;
+}
+
+header {
+  width: 100%;
+  height: 70px;
+  background: black;
+  color: #fff;
+}
+
+footer {
+  width: 100%;
+  height: 50px;
+  background: #000;
+  color: #fff;
+  margin-top: -50px;
 }
 
