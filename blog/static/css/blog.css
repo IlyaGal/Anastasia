@@ -9,6 +9,7 @@
 .page-header {
     background-color: #40E0D0;
     margin-top: 0;
+    padding: 20px 20px 20px 40px;
     text-align: center;
 }
 
@@ -89,24 +90,3 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-}
-
-html,
-body {
-  height: 100%;
-}
-.wrapper {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-}
-.content {
-  flex: 1 0 auto;
-}
-.footer {
-  flex: 0 0 auto;
-  background-color: #40E0D0;
-}
