@@ -28,11 +28,13 @@
       <file leaf-file-name="AnastasiaKolorova.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/AnastasiaKolorova.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="694">
-              <caret line="52" column="24" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+            <state relative-caret-position="432">
+              <caret line="30" column="55" lean-forward="false" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#3338#3344#0" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#3263#3269#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -317,13 +319,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540139158872</updated>
-    </task>
-    <task id="LOCAL-00112" summary="Podval">
-      <created>1550023656280</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1550023656280</updated>
     </task>
     <task id="LOCAL-00113" summary="Podval">
       <created>1550023889929</created>
@@ -661,7 +656,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550028614096</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="Podval">
+      <created>1550054482451</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1550054482460</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1095,11 +1097,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/AnastasiaKolorova.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="52" column="24" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+        <state relative-caret-position="432">
+          <caret line="30" column="55" lean-forward="false" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#3338#3344#0" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3263#3269#0" expanded="true" />
           </folding>
         </state>
       </provider>
