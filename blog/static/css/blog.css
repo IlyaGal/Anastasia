@@ -26,6 +26,9 @@
     margin-bottom: 0;
     padding: 25px; /* Поля вокруг текста */
     text-align: right;
+    color: #ffffff;
+    font-size: 16pt;
+
 }
 
 .aspirants {
