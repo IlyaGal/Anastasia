@@ -19,7 +19,7 @@
     left: 0; bottom: 0; /* Левый нижний угол */
     padding: 10px; /* Поля вокруг текста */
     text-align: right;
-    width: 95%; /* Ширина слоя */
+    width: 100%; /* Ширина слоя */
 }
 
 .aspirants {
