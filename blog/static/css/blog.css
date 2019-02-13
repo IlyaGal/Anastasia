@@ -90,30 +90,23 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 
-body, html {
-  width: 100%;
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
   height: 100%;
 }
-
 .wrapper {
-  width: 100%;
-  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
-
-header {
-  width: 100%;
-  height: 70px;
-  background: black;
-  color: #fff;
+.content {
+  flex: 1 0 auto;
 }
-
-footer {
-  width: 100%;
-  height: 75px;
-  background: #40E0D0;
-  color: #fff;
-  margin-top: -75px;
-  text-align: right;
-
+.footer {
+  flex: 0 0 auto;
 }
-
