@@ -16,8 +16,11 @@
 .page-podval {
     background-color: #40E0D0;
     margin-bottom: 0;
-    padding: 20px 20px 20px 40px;
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
     text-align: right;
+    width: 100%; /* Ширина слоя */
+    position: fixed; /* Фиксированное положение */
 }
 
 .aspirants {
