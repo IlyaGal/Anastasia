@@ -19,9 +19,9 @@
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/base_first.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="640">
-              <caret line="39" column="23" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+              <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
               <folding>
-                <element signature="e#1975#1981#0" expanded="true" />
+                <element signature="e#1977#1983#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -40,8 +40,8 @@
       <file leaf-file-name="blog.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="92" column="23" lean-forward="false" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+            <state relative-caret-position="769">
+              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -305,13 +305,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540139158872</updated>
-    </task>
-    <task id="LOCAL-00060" summary="table3">
-      <created>1550012099483</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1550012099483</updated>
     </task>
     <task id="LOCAL-00061" summary="table3">
       <created>1550012810597</created>
@@ -649,7 +642,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550022441819</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Podval">
+      <created>1550023136158</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1550023136158</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -700,7 +700,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="slice:&quot;:255&quot;2" />
     <MESSAGE value="..." />
     <MESSAGE value="...." />
     <MESSAGE value="align=&quot;justify&quot;" />
@@ -725,7 +724,8 @@
     <MESSAGE value="table" />
     <MESSAGE value="table3" />
     <MESSAGE value="ramka" />
-    <option name="LAST_COMMIT_MESSAGE" value="ramka" />
+    <MESSAGE value="Podval" />
+    <option name="LAST_COMMIT_MESSAGE" value="Podval" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1062,8 +1062,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="92" column="23" lean-forward="false" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+        <state relative-caret-position="769">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1071,9 +1071,9 @@
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/base_first.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
-          <caret line="39" column="23" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
           <folding>
-            <element signature="e#1975#1981#0" expanded="true" />
+            <element signature="e#1977#1983#0" expanded="true" />
           </folding>
         </state>
       </provider>
