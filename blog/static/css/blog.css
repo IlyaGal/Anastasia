@@ -1,6 +1,9 @@
-
+* {
+  margin: 0;
+  padding: 0;
+}
 .content {
-  min-height: calc(100vh - 60px);
+  min-height: calc(80vh - 80px);
 }
 
 .page-menu {
@@ -14,7 +17,7 @@
 .page-header {
     background-color: #40E0D0;
     margin-top: 0;
-    padding: 20px 20px 0px 40px;
+    padding: 20px 20px 20px 40px;
     text-align: center;
 }
 
