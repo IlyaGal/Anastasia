@@ -38,6 +38,10 @@
     margin: 30px;
 }
 
+.table {
+    border-spacing: 10px 15px;
+}
+
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
     font-size: 36pt;
