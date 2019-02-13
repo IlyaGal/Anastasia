@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/AnastasiaKolorova.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="618">
-              <caret line="37" column="37" lean-forward="false" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+              <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -301,13 +301,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540139158872</updated>
-    </task>
-    <task id="LOCAL-00058" summary="table3">
-      <created>1550011700811</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1550011700811</updated>
     </task>
     <task id="LOCAL-00059" summary="table3">
       <created>1550011951360</created>
@@ -645,7 +638,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550022360727</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="ramka">
+      <created>1550022384870</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1550022384870</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1067,7 +1067,7 @@
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/AnastasiaKolorova.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="618">
-          <caret line="37" column="37" lean-forward="false" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
           <folding />
         </state>
       </provider>
