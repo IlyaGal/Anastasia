@@ -1,3 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.content {
+  min-height: calc(100vh - 80px);
+}
+
 .page-menu {
     text-align: center;
     font-family: 'Times New Roman', serif;
