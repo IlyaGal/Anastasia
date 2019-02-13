@@ -13,6 +13,13 @@
     text-align: center;
 }
 
+.page-podval {
+    background-color: #40E0D0;
+    margin-bottom: 0;
+    padding: 20px 20px 20px 40px;
+    text-align: right;
+}
+
 .aspirants {
     color: #000000;
     font-family: 'Times New Roman', Times, serif;
