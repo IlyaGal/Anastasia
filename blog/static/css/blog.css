@@ -24,7 +24,7 @@
 .page-podval {
     background-color: #40E0D0;
     margin-bottom: 0;
-    padding: 25px; /* Поля вокруг текста */
+    padding: 20px 20px 20px 40px;
     text-align: right;
     color: #ffffff;
     font-size: 16pt;

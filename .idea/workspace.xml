@@ -42,8 +42,8 @@
       <file leaf-file-name="blog.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            <state relative-caret-position="378">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -318,13 +318,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540139158872</updated>
-    </task>
-    <task id="LOCAL-00096" summary="ramka">
-      <created>1550021049306</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1550021049306</updated>
     </task>
     <task id="LOCAL-00097" summary="ramka">
       <created>1550021192138</created>
@@ -662,7 +655,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550027406035</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="Podval">
+      <created>1550027568084</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1550027568084</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1099,8 +1099,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        <state relative-caret-position="378">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
