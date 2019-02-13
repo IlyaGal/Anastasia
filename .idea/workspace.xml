@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b202ad5-d9b2-4ba7-a61f-aa0167b52b82" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/static/css/blog.css" afterPath="$PROJECT_DIR$/blog/static/css/blog.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,11 +28,11 @@
       <file leaf-file-name="AnastasiaKolorova.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/AnastasiaKolorova.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="694">
+              <caret line="52" column="24" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#3051#3057#0" expanded="true" />
+                <element signature="e#3338#3344#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -318,13 +317,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540139158872</updated>
-    </task>
-    <task id="LOCAL-00111" summary="Podval">
-      <created>1550023360897</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1550023360897</updated>
     </task>
     <task id="LOCAL-00112" summary="Podval">
       <created>1550023656280</created>
@@ -662,7 +654,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550028398616</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="Podval">
+      <created>1550028614096</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1550028614096</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -766,7 +765,7 @@
         <state relative-caret-position="72">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#0#64#0" expanded="false" />
             <element signature="e#2360#2443#0" expanded="false" />
             <element signature="e#3106#3424#0" expanded="false" />
             <element signature="e#4775#5163#0" expanded="false" />
@@ -1005,7 +1004,7 @@
         <state relative-caret-position="252">
           <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding>
-            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#0#64#0" expanded="false" />
             <element signature="e#2360#2443#0" expanded="false" />
             <element signature="e#3106#3424#0" expanded="false" />
             <element signature="e#4775#5163#0" expanded="false" />
@@ -1096,11 +1095,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/AnastasiaKolorova.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        <state relative-caret-position="694">
+          <caret line="52" column="24" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#3051#3057#0" expanded="true" />
+            <element signature="e#3338#3344#0" expanded="true" />
           </folding>
         </state>
       </provider>
