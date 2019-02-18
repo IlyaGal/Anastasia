@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b202ad5-d9b2-4ba7-a61f-aa0167b52b82" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/AnastasiaKolorova.html" afterPath="$PROJECT_DIR$/blog/templates/blog/AnastasiaKolorova.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -369,13 +368,6 @@
       <option name="presentableId" value="Default" />
       <updated>1540139158872</updated>
     </task>
-    <task id="LOCAL-00131" summary="Podval">
-      <created>1550025848376</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1550025848377</updated>
-    </task>
     <task id="LOCAL-00132" summary="Podval">
       <created>1550025903891</created>
       <option name="number" value="00132" />
@@ -712,7 +704,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550451286105</updated>
     </task>
-    <option name="localTasksCounter" value="180" />
+    <task id="LOCAL-00180" summary="next">
+      <created>1550451386985</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1550451386986</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
     <servers />
   </component>
   <component name="ToolWindowManager">
