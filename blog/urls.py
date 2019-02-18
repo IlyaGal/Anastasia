@@ -32,5 +32,8 @@ urlpatterns = [
     url(r'^page3/$', views.stat_page3),
     url(r'^page4/$', views.stat_page4),
     url(r'^page5/$', views.stat_page5),
+    url(r'^Diagnostic/$', views.stat_diagnostic),
+    url(r'^Info/$', views.stat_info),
+    url(r'^Rozvutok/$', views.stat_rozvutok),
 
 ]
