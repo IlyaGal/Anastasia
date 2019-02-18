@@ -60,8 +60,8 @@
       <file leaf-file-name="AnastasiaKolorova.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/AnastasiaKolorova.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="77" column="126" lean-forward="false" selection-start-line="77" selection-start-column="126" selection-end-line="77" selection-end-column="126" />
+            <state relative-caret-position="540">
+              <caret line="66" column="151" lean-forward="false" selection-start-line="66" selection-start-column="151" selection-end-line="66" selection-end-column="151" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -69,7 +69,7 @@
                 <element signature="e#1164#1170#0" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#6254#6260#0" expanded="true" />
+                <element signature="e#6260#6266#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540139158872</updated>
-    </task>
-    <task id="LOCAL-00152" summary="Podval">
-      <created>1550027909240</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1550027909240</updated>
     </task>
     <task id="LOCAL-00153" summary="Podval">
       <created>1550027943857</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550519161224</updated>
     </task>
-    <option name="localTasksCounter" value="201" />
+    <task id="LOCAL-00201" summary="11">
+      <created>1550519387095</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1550519387096</updated>
+    </task>
+    <option name="localTasksCounter" value="202" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -669,7 +669,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="...." />
     <MESSAGE value="align=&quot;justify&quot;" />
     <MESSAGE value="link" />
     <MESSAGE value="www" />
@@ -694,7 +693,8 @@
     <MESSAGE value="ramka" />
     <MESSAGE value="Podval" />
     <MESSAGE value="next" />
-    <option name="LAST_COMMIT_MESSAGE" value="next" />
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1028,8 +1028,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/AnastasiaKolorova.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="77" column="126" lean-forward="false" selection-start-line="77" selection-start-column="126" selection-end-line="77" selection-end-column="126" />
+        <state relative-caret-position="540">
+          <caret line="66" column="151" lean-forward="false" selection-start-line="66" selection-start-column="151" selection-end-line="66" selection-end-column="151" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1037,7 +1037,7 @@
             <element signature="e#1164#1170#0" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#6254#6260#0" expanded="true" />
+            <element signature="e#6260#6266#0" expanded="true" />
           </folding>
         </state>
       </provider>
