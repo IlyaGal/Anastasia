@@ -3,12 +3,7 @@ from django.utils import timezone
 from .models import Post, Aspirant, Test, Intresting
 from .forms import PostForm, AspirantForm, TestForm, IntrestingForm
 
-def stat_diagnostic(request):
-    return render(request, 'blog/Diagnostic.html')
-def stat_info(request):
-    return render(request, 'blog/Info.html')
-def stat_rozvutok(request):
-    return render(request, 'blog/Rozvutok.html')
+
 def stat_page1(request):
     return render(request, 'blog/page1.html')
 def stat_page2(request):
