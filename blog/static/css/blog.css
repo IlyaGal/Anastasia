@@ -31,10 +31,20 @@
 }
 
 .page-text {
-    text-align: center;
+    text-align: justify;
     color: #000;
     font-size: 14pt;
+    text-indent: 50px;
 
+}
+
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 20px 7px 0; /* Отступы вокруг картинки */
+}
+.rightimg  {
+    float: right; /* Выравнивание по правому краю  */
+    margin: 7px 0 7px 20px; /* Отступы вокруг картинки */
 }
 
 .page-text1 {
@@ -67,7 +77,8 @@
 }
 
 .ramka {
-    margin: 30px;
+    margin-left: 80px;
+    margin-right: 100px;
 }
 
 
@@ -84,6 +95,8 @@
 
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
+    text-align: center;
+
 }
 
 .date {
