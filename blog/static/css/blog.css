@@ -48,9 +48,9 @@
 }
 
 .page-text1 {
-    text-align: center;
+    text-align: justify;
     color: #000;
-    font-size: 12pt;
+    font-size: 11pt;
 
 }
 
@@ -67,6 +67,8 @@
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     font-size: 16pt;
+        text-align: justify;
+
 }
 
 .aspirantInfoLast {
