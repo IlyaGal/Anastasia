@@ -38,6 +38,13 @@
 
 }
 
+.page-textmenu {
+    text-align: center;
+    color: #40E0D0;
+    font-size: 14pt;
+
+}
+
 .leftimg {
     float:left; /* Выравнивание по левому краю */
     margin: 7px 20px 7px 0; /* Отступы вокруг картинки */
