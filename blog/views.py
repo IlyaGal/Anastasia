@@ -9,16 +9,16 @@ def stat_info(request):
     return render(request, 'blog/Info.html')
 def stat_rozvutok(request):
     return render(request, 'blog/Rozvutok.html')
-def stat_page1(request):
-    return render(request, 'blog/page1.html')
+def stat_anastasiaVideo(request):
+    return render(request, 'blog/AnastasiaVideo.html')
 def stat_page2(request):
     return render(request, 'blog/page2.html')
 def stat_page3(request):
     return render(request, 'blog/page3.html')
 def stat_page4(request):
     return render(request, 'blog/page4.html')
-def stat_page5(request):
-    return render(request, 'blog/page5.html')
+def stat_aboutAnastasia(request):
+    return render(request, 'blog/AboutAnastasia.html')
 def stat_aspirants(request):
     return render(request, 'blog/Aspirants.html')
 def stat_anastasia1(request):
