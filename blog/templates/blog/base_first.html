@@ -1,36 +1,80 @@
 {% load static %}
 <html>
-<head>
-    <meta name="google-site-verification" content="cLVy8iSH6XIjFs8ofygby820W09DWfGv_Yllu_p_K3w" />
-    <title>Лабораторія КП</title>
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
-    <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{% static 'css/blog.css' %}">
-</head>
+    <head>
+<meta name="google-site-verification" content="cLVy8iSH6XIjFs8ofygby820W09DWfGv_Yllu_p_K3w" />
+        <title>Лабораторія КП</title>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+        <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="{% static 'css/blog.css' %}">
+    </head>
 <body>
-<div class="page-header">
+    <div class="page-header">
 
-    <h1><a href="/">Лабораторія когнітивної психології <br> Інституту психології імені Г.С. Костюка <br> НАПН України </a></h1>
-</div>
-<div>
+        <h1><a href="/">Лабораторія когнітивної психології <br> Інституту психології імені Г.С. Костюка <br> НАПН України </a></h1>
+    </div>
+    <div class="content">
+
+
+
+<div  class="ramka">
+<div style="padding: 10px"></div>
     <table width="95%" cellspacing="0" cellpadding="4" align="center">
         <tr>
-            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/117/">ЗАГАЛЬНА ІНФОРМАЦІЯ <br>ПРО ЛАБОРАТОРІЮ</a></th>
-            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/116/">СКЛАД ЛАБОРАТОРІЇ</a></th>
-            <th><a class="page-menu" href="/Aspirants">АСПІРАНТИ</a></th>
-            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/115/">ОСНОВНІ НАПРЯМКИ <br>ДІЯЛЬНОСТІ</a></th>
+            <th>
+                <p class="page-textmenu">
+                    <a class="page-menu" href="http://psychology-naes-ua.institute/info/117/">ЗАГАЛЬНА ІНФОРМАЦІЯ <br>ПРО ЛАБОРАТОРІЮ</a>
+                </p>
+            </th>
+            <th></th>
+            <th>
+                <p class="page-textmenu">
+                    <a class="page-menu" href="http://psychology-naes-ua.institute/info/116/">СКЛАД ЛАБОРАТОРІЇ</a>
+                </p>
+            </th>
+            <th></th>
+            <th>
+                <p class="page-textmenu">
+                    <a class="page-menu" href="/Aspirants">АСПІРАНТИ</a>
+                </p>
+            </th>
+            <th></th>
+            <th>
+                <p class="page-textmenu">
+                    <a class="page-menu" href="http://psychology-naes-ua.institute/info/115/">ОСНОВНІ НАПРЯМКИ <br>ДІЯЛЬНОСТІ</a>
+                </p>
+            </th>
         </tr>
         <tr>
-            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/114/">СПІВПРАЦЯ З ВІТЧИЗНЯНИМИ <br>ТА ЗАРУБІЖНИМИ ОРГАНІЗАЦІЯМИ</a></th>
-            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/113/">НАУКОВІ ЗВІТИ <br>ПО ЗАВЕРШЕНИХ ТЕМАХ</a></th>
-            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/112/">ОСНОВНІ ПУБЛІКАЦІЇ</a></th>
-            <th><a class="page-menu" href="http://psychology-naes-ua.institute/info/111/">КОНТАКТИ</a></th>
+            <th>
+                <p class="page-textmenu">
+                    <a class="page-menu" href="http://psychology-naes-ua.institute/info/114/">СПІВПРАЦЯ З ВІТЧИЗНЯНИМИ <br>ТА ЗАРУБІЖНИМИ ОРГАНІЗАЦІЯМИ</a>
+                </p>
+            </th>
+            <th></th>
+            <th>
+                <p class="page-textmenu">
+                    <a class="page-menu" href="http://psychology-naes-ua.institute/info/113/">НАУКОВІ ЗВІТИ <br>ПО ЗАВЕРШЕНИХ ТЕМАХ</a>
+                </p>
+            </th>
+            <th></th>
+            <th>
+                <p class="page-textmenu">
+                    <a class="page-menu" href="http://psychology-naes-ua.institute/info/112/">ОСНОВНІ ПУБЛІКАЦІЇ</a>
+                </p>
+            </th>
+            <th></th>
+            <th>
+                <p class="page-textmenu">
+                    <a class="page-menu" href="http://psychology-naes-ua.institute/info/111/">КОНТАКТИ</a>
+                </p>
+            </th>
         </tr>
     </table>
-</div>
 
-<div class="content container">
+        <div style="padding: 15px"></div>
+<!--div class="content container"-->
+<div class="content1">
     <div class="row">
         <div class="col-md-8">
             {% block content %}
@@ -38,10 +82,16 @@
         </div>
     </div>
 </div>
-  <div class="page-podval">
-   <div>
-    &copy; 4ehsir
-   </div>
-  </div>
+</div>
+
+
+
+        <div style="padding: 15px"></div>
+    </div>
+<div>
+    <p class="page-podval">
+        &copy; 4ehsir
+    </p>
+</div>
 </body>
 </html>
